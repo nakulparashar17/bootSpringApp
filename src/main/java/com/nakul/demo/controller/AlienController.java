@@ -20,6 +20,8 @@ import org.springframework.web.servlet.ModelAndView;
 import com.nakul.demo.DAO.AlienRepo;
 import com.nakul.demo.model.Alien;
 
+//controller class
+
 @RestController
 public class AlienController {
 	
